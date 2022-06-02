@@ -1,5 +1,5 @@
 {
-    "name": "Yukki Music Bot",
+    "name": "Attitudeking Music Bot",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
     "logo": "https://telegra.ph/file/c0e014ff34f34d1056627.png",
     "keywords": [
@@ -69,7 +69,7 @@
         "required": true
       },
       "UPSTREAM_REPO": {
-        "description": "If you dont know this, Leave as it is",
+        "description": "Don't change this",
         "value": "https://github.com/AttitudeKing142/attitudeking",
         "required": true
       },
