@@ -70,7 +70,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "Don't change this",
-        "value": "https://github.com/AttitudeKing142/attitudeking",
+        "value": "https://github.com/AttitudeKing143/attitudeking",
         "required": true
       },
       "UPSTREAM_BRANCH": {
